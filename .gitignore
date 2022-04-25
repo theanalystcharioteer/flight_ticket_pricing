@@ -1,0 +1,12 @@
+# folders 
+data/
+ml_env/
+
+# files
+
+# extensions
+*.ipynb_checkpoints
+*.DS_Store
+*.csv
+*.pkl
+*.parquet
